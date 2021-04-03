@@ -1,3 +1,0 @@
-git+ttps://github.com/Rapptz/discord.py
-PyNaCl
-dnspython
